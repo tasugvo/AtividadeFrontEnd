@@ -15,6 +15,3 @@ Criar uma aplicação web estática que permita ao usuário visualizar informaç
 - Imagens com **zoom padronizado** para enquadramento consistente.
 - **Pop-up informativo temporário** no canto inferior direito para instruir o usuário.
 - Estilo moderno inspirado na interface do **Apple Vision Pro**.
-
-## 📂 Estrutura de Arquivos
-
